@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+    <ModulePrefs title="Simple Label">
+    	<Require feature="sap-context"/>
+    </ModulePrefs>
+      <Content type="html" href="/bocallaghan/simpleXSApp/widgets/label/ui5Label.html">
+      </Content>
+</Module>

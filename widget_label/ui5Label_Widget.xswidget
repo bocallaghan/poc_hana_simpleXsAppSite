@@ -1,0 +1,6 @@
+{
+"name" : "Simple Label",
+"specXMLURL" : "/bocallaghan/simpleXSApp/widgets/label/ui5Label_Descriptor.xml" ,
+"description": "Simple Label",
+"icon" : ""
+}

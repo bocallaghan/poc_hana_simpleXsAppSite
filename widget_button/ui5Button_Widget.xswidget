@@ -1,0 +1,6 @@
+{
+"name" : "Simple Button",
+"specXMLURL" : "/bocallaghan/simpleXSApp/widgets/button/ui5Button_Descriptor.xml" ,
+"description": "Simple Button",
+"icon" : ""
+}
